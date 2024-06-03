@@ -12,3 +12,6 @@ dpaste.top: https://dpaste.top
 (The original and explanation of [a] pastebin):
 dpaste.org: https://dpaste.org/
 pastebin: https://en.wikipedia.org/wiki/Pastebin
+
+If anyone is confused with the website here is the official documentation to get a bit deeper:
+https://docs.dpaste.org/ 
